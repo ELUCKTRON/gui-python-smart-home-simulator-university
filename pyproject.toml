@@ -1,16 +1,14 @@
 [project]
-name = "smart-tic-tac-toe"
+name = "smart-home-iot-simulator"
 version = "1.0.0"
-description = "A PySide6 GUI implementation of Smart Tic Tac Toe"
+description = "A Tkinter-based GUI Smart Home IoT Simulator for university projects"
 authors = [{ name = "Saeed Khanloo" }]
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = [
-    "PySide6",
-]
+dependencies = []
 
 [project.scripts]
-tic-tac-toe = "src.main:main"
+iot-simulator = "src.main:main"
 
 [build-system]
 requires = ["setuptools", "wheel"]
