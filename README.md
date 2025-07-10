@@ -2,6 +2,16 @@
 
 This project is a **Tkinter-based Smart Home IoT Simulator** built in Python. It simulates common IoT devices with automation capabilities through a live GUI interface.
 
+---
+
+## 📸 Screenshot
+
+- 📊 Dashboard Interface  
+  ![Smart Home Dashboard](./assets/dashboard.png)
+
+---
+
+
 ## 🧠 Features
 
 - 💡 Smart Lights with adjustable and random brightness  
@@ -13,11 +23,13 @@ This project is a **Tkinter-based Smart Home IoT Simulator** built in Python. It
 
 ## 🚀 How to Run
 
+If you're using the Windows build:  
+**Just double-click the `.exe` file** – no installation needed.
+
 If you're using the source code:  
 `python main.py`
 
-If you're using the Windows build:  
-**Just double-click the `.exe` file** – no installation needed.
+
 
 ## 📦 Requirements
 
@@ -32,4 +44,9 @@ If you're using the Windows build:
 
 ## 👨‍🎓 Author
 
-**Saeed Khanloo**
+🎓 University Info
+👨‍🎓 Student: Saeed Khanloo
+
+🧠 Course: Programming with Python
+
+📅 Semester: 3
