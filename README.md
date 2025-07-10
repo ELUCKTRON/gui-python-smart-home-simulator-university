@@ -7,7 +7,7 @@ This project is a **Tkinter-based Smart Home IoT Simulator** built in Python. It
 ## 📸 Screenshot
 
 - 📊 Dashboard Interface  
-  ![Smart Home Dashboard](./assets/dashboard.png)
+<img src="./assets/dashboard.png" alt="Smart Home Dashboard" width="600"/>
 
 ---
 
